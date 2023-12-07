@@ -1,0 +1,16 @@
+{
+  "domain": "mikromarz",
+  "name": "Mikromarz",
+  "version": "0.1",
+  "codeowners": [
+    "@pilarik31"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/test",
+  "homekit": {},
+  "iot_class": "calculated",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
